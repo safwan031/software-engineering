@@ -99,10 +99,7 @@ Agile methodology is most suitable for this project because it guarantees short 
 
 
 
-<div align="justify">
-    <img src="https://i.ibb.co/jbXQbC8/Software-Process-Model.png" alt="Software-Process-Model" border="0">
-</div>
-
+<img src="https://i.ibb.co/RQy1XhT/Proposal-SPM-drawio.png" alt="Proposal-SPM-drawio" border="0">
 #### Gathering Requirements Phase:
 - Find and identify the best stakeholders. For examples, PKU UTM administrative personnel, PKU UTM medical professionals, and UTM students.
 - Determine which features are necessary for Student Health and Wellness Management System and which may be added later by analysing and prioritising the requirements. For instances, health tips, SOS emergency call button, Dental Pre-appointment Form and Online Mental Consultation.
@@ -153,7 +150,7 @@ For the student health and wellness management system which involves around 2000
 This could include purchasing or renting servers, storage devices, networking equipment, computers and other hardware necessary for the development and maintenance of the system. The cost might differ depending on the latest requirements of the system and the hardware components chosen.
 
 - Software: **RM 0**\
-This could include purchasing or licensing software such as operating systems, system development tools, and security software. The cost of software might differ depending on the latest requirements of the system, the number of licenses required, and the software tools and platforms chosen. To save on software costs, an open-source solution like the MySQL and XAMPP is a suitable alternative, with no cost initially required.
+This could include purchasing or licensing software such as operating systems, system development tools, and security software. The cost of software might differ depending on the latest requirements of the system, and the software tools and platforms chosen but since the software tools and platforms used are free, there is initially no fee required.
 
 - Testing: **RM 15,000**\
 It requires specialized tests such as functional, performance and security tests to ensure the system functions correctly and meets the requirements. These tests require purchasing and installing specialized test equipment, software and other services that come with their own costs.

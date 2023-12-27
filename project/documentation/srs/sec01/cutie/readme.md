@@ -4,7 +4,8 @@
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -42,7 +43,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name |File | 
 | -----:| ----- | :------: | 
 |1| Document SRS| <a href="https://docs.google.com/document/d/1gYnT_O2jhI0c_1Fj7zSzKu-DS3WszlASZqaUI4-x3eQ/edit" ><img src="../../../../../images/pdf64.png" width="24px" height="24px" ></a>|
-|2| Draw.io| <a href="" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
+|2| Draw.io| <a href="https://www.figma.com/file/vJFZ4ywOpGf74nWp6hwt9T/Student-Attendance-System?type=design&node-id=363-2343&mode=design&t=m4y8c3Yml9LuHyYV-0" ><img src="../../../../../images/drawio.svg" width="24px" height="24px" ></a>|
 |3| Others| <a href="" ><img src="../../../../../images/data_folder.png" width="24px" height="24px" ></a>|
 
 ## Stakeholder
@@ -93,15 +94,24 @@ Don't forget to hit the :star: if you like this repo.
 | 8 | 07/05/2023 | All Members | Project Members | Determine stakeholder | Complete |
 | 9 | 12/05/2023 | Jaslene Yu | Project Manager | Contact stakeholder | Complete |
 |10 | 16/05/2023 | All Members | Project Members | First interview with stakeholder | Complete |
-|11 | 18/05/2023 | All Members | Project Members | System Requirements Specification Discussion | Complete |
-|12 | 19/05/2023 | All Members | Project Members | System Requirements Specification | Partially complete |
+|11 | 17/05/2023 | All Members | Project Members | Design UML Diagram | Complete |
+|12 | 18/05/2023 | All Members | Project Members | System Requirements Specification Discussion | Complete |
+|13 | 19/05/2023 | All Members | Project Members | System Requirements Specification | Complete |
+|14 | 25/05/2023 | All Members | Project Members | System Design | Complete |
+|15 | 28/05/2023 | All Members | Project Members | Create low fidelity | Complete|
+|16 | 31/05/2023 | All Members | Projects Members | Create High fidelity | Complete|
+|17 | 12/06/2023 | All Members | Project Members | System Design Document Discussion | Complete|
+|18 | 13/06/2023 | All Members | Projects Members |  System Design Document | Complete|
+|19 | 15/06/2023 | All Members | Projects Members | System Testing Document Discussion |Complete|
+|20 | 19/06/2023 | All Members | Projects Members | System Testing Document | Complete|
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 

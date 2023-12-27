@@ -4,7 +4,8 @@
 <a href="https://github.com/drshahizan/software-engineering/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/software-engineering" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/issues"><img src="https://img.shields.io/github/issues/drshahizan/software-engineering" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/software-engineering/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/software-engineering?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/software-engineering)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -59,31 +60,31 @@ Don't forget to hit the :star: if you like this repo.
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability. </td>
   </tr>
    <tr>
-    <td>MOHD. 'ALA BIN MOHD ANUAR</td>
+    <td> ENCIK MOHD. 'ALA BIN MOHD ANUAR</td>
     <td>Adminstrator of Restaurant "Sdap Kitchen"</td>
     <td>Assistant</td>
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
   </tr>
    <tr>
-    <td>NOOR AZIRA BINTI JAMALI</td>
+    <td> PUAN NOOR AZIRA BINTI JAMALI</td>
     <td>Adminstrator of Restaurant "Deen Corner"</td>
     <td>Assistant</td>
     <td>Provide accurate and up-to-date information about their menu items, pricing, and availability</td>
   </tr>
     <tr>
-    <td>DANIEL HARRIZ BIN MOHD ASINEH @ MOHD ASNEH</td>
+    <td>MUHAMMAD FAIZUN NAI'M BIN MD.FAUZAN</td>
     <td>Customer</td>
     <td>UTM student</td>
     <td>Provide feedback on the ordering process, menu and quality of the food</td>
   </tr>
    <tr>
-    <td>MUHAMMAD LUQMAN HAKIM BIN MOHD RIZAUDIN</td>
+    <td>MUHAMMAD HARITH BIN MOHD KAMAL</td>
     <td>Customer</td>
     <td>UTM student</td>
     <td>Provide feedback on the user interfaces</td>
   </tr>
   <tr>
-    <td>MUHAMMAD NUR AZHAR BIN MOHD YAZID</td>
+    <td>MUHAMMAD WAFFI QAYYUM BIN DIN</td>
     <td>Customer</td>
     <td>UTM student</td>
     <td>Provide feedback on the payment methods</td>
@@ -104,8 +105,21 @@ Don't forget to hit the :star: if you like this repo.
 | 6  | 02/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi  |Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist   |Meeting with stakeholder, Encik Amran and his assistant, Puan Azira |Complete|
 | 7  | 03/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst,Developer,Documentation Specialist|Compliting proposal|Complete|
 | 8  | 05/05/2023 |Safwan|Quality Assurance|Checking all menu,quality the food and beverages,methods of payment|Complete|
-| 9  | 10/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst,Developer,Documentation Specialist|Planning SRS|Incomplete|
-| 9  | 11/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist |Create UML Diagram|Complete|
+| 9  | 10/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst,Developer,Documentation Specialist|Planning SRS|Complete|
+| 10 | 11/05/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist |Create UML Diagram|Complete|
+| 11 | 13/05/2023 |Iman, Safwan|User Experience Designer,Quality Assurance|Low fidelity progression|Complete|
+| 12 | 13/05/2023 |Daniel, Ariff,Che Marhumi|Requirements Analyst,Developer,Documentation Specialist|High fidelity progression|Complete|
+| 13 | 08/06/2023 |Daniel, Ariff|Requirements Analyst,Developer|High fidelity for admin|Complete|
+| 14 | 10/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|SDD documentation|Complete|
+| 15 | 15/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|STD documentation|Complete|
+| 16 | 20/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Scrum meeting|Complete|
+| 17 | 22/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update SDD Documentation|Complete|
+| 18 | 23/06/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update STD Documentation|Complete|
+| 19 | 01/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Discussion about Project Details|Complete|
+| 20 | 02/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Update Project Documentation Details|Complete|
+| 21 | 02/07/2023 |Daniel, Ariff, Iman, Safwan, Che Marhumi|Requirements Analyst,Developer,User Experience Designer,Quality Assurance,Documentation Specialist|Project Documentation|Complete|
+
+
 
 
 
@@ -114,7 +128,7 @@ Please create an [Issue](https://github.com/drshahizan/software-engineering/issu
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
-![](https://komarev.com/ghpvc/?username=drshahizan&label=Views&color=0e75b6&style=flat)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 
